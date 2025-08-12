@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def maximumXOR(self, nums: List[int]) -> int:
         r=0
